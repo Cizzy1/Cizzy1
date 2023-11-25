@@ -1,10 +1,10 @@
 ### Hellooo 🐱
 
-Im a 1st year student at Wakefield Univsersity Centre currently learning Indie Games Development. Im mainly a 3D artist 
-but for programming I mainly work on C# within Unity. I have worked with a range of languages from Python, 
-Javascript but have mainly forgotten them 😞.
+I'm a 1st year student at Wakefield University Centre currently learning Indie Games Development. I'm mainly a 3D artist 
+but for programming, I mainly work on C# within Unity. I have worked with a range of languages from Python, 
+Javascript but have mainly forgotten them. 😿
 
-You will find most of my game repositories on here from college and university.
+You will find most of my game repositories here from college and university.
 
 Art - https://www.artstation.com/callumandrews7
 
