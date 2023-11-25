@@ -1,3 +1,4 @@
+![alt text](https://i.postimg.cc/W3LzjbgG/Screenshot-2023-11-25-113517.png)
 ### Hellooo 🐱
 
 I'm a 1st year student at Wakefield University Centre currently learning Indie Games Development. I'm mainly a 3D artist 
@@ -8,7 +9,7 @@ You will find most of my game repositories here from college and university.
 
 Art - https://www.artstation.com/callumandrews7
 
-![alt text](https://ibb.co/pLw7wp4)
+
 
 <!--
 **Cizzy1/Cizzy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
