@@ -1,7 +1,4 @@
-![alt text](https://i.postimg.cc/W3LzjbgG/Screenshot-2023-11-25-113517.png)
-### Hellooo 🐱
-
-I'm a 1st year student at Wakefield University Centre currently learning Indie Games Development. I'm mainly a 3D artist 
+1st year student at Wakefield University Centre currently learning Indie Games Development. I'm mainly a 3D artist 
 but for programming, I mainly work on C# within Unity. I have worked with a range of languages from Python, 
 Javascript but have mainly forgotten them. 😿
 
