@@ -1,6 +1,5 @@
-1st year student at Wakefield University Centre currently learning Indie Games Development. I'm mainly a 3D artist 
-but for programming, I mainly work on C# within Unity. I have worked with a range of languages from Python, 
-Javascript but have mainly forgotten them. 😿
+2nd year student at Wakefield University Centre currently learning Indie Games Development. I'm mainly a 3D artist 
+but for programming, I mainly work on C# within Unity.
 
 You will find most of my game repositories here from college and university.
 
